@@ -1,0 +1,111 @@
+.container{
+    padding-bottom: 65px;
+    width: 550px;
+    height: 530px;
+    background: rgb(255, 145, 0);
+    border-bottom: 20px solid  rgb(241, 238, 238);
+}
+.container-2{
+    width: 550px;
+    height: 400px;
+    background: rgba(252, 246, 246, 0.979);  
+}
+.imgC{
+    margin-top: 50px;
+}
+.cheart{
+    margin: 10% 0% 0% 5%; 
+    content:url(img/heart-svgrepo-com.svg);
+    position: fixed;
+    transform: rotate(10deg);
+    width: 50px;
+}
+.cheart2{
+    margin: 13% 0% 0% 2%; 
+    content:url(img/heart-svgrepo-com.svg);
+    position: fixed;
+    transform: rotate(-35deg);
+    width: 20px;
+}
+.cheart3{
+    margin: 16% 0% 0% 5%; 
+    content:url(img/heart-svgrepo-com.svg);
+    position: fixed;
+    transform: rotate(-45deg);
+    width: 30px;
+    display: flex;
+}
+
+.louie{
+    margin: 0% 0% 0% 27%; 
+    content:url(img/cat.svg);
+    position: fixed;
+    width: 270px;
+}
+.main{
+    position: relative;
+    margin: 0% 50% 0% 30% ;
+}
+.modalOpen{
+    background-color: rgba(125, 2, 241, 0.822);
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+    padding: 0.5rem;
+    border: solid 2px white;
+    text-decoration: none;
+}
+.modalClose{
+    background-color: rgba(241, 117, 2, 0.822);
+    color: white;
+    font-size: large;
+    border-radius: 5px;
+    padding: 8px ;
+    border: solid 2px white;
+    text-decoration: none;
+    margin-left: 95%;
+    top: -20px;
+    text-align: center;
+    line-height: 30px;
+    padding: absolute;
+}
+.modal {
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgba(0,0,0,0.8);
+    z-index: 99999 !important;
+    opacity:0;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+  }
+.modal:target {
+    opacity: 1;
+    pointer-events: auto;
+  }
+.modal > div {
+    width: 500px;
+    position: relative;
+    margin: 10% auto;
+    padding: 15px 20px;
+    background: #fff;
+    border-radius: 5px;
+  }
+  .Modalheader{
+      background-color: rgb(240, 192, 114);
+     padding: 15px;
+     border-radius: 5px;
+     margin: 0px;
+  }
+  .xy{
+      margin-left: 5%;
+      margin-top: 15%;
+      position: absolute;
+     
+  }

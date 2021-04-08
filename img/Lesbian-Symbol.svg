@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2909" sodipodi:docname="Lesbian Symbol.svg" viewBox="0 0 77.483503 74.367485" version="1.1" inkscape:version="0.48.5 r10040">
+  	#path3758 {
+			fill: none;
+			stroke: #ad0707;
+			stroke-width: 20px;
+
+		
+			stroke-dasharray: 1353px;
+			stroke-dashoffset: 1353px;
+			animation: move 2s linear infinite;   
+		/*     animation-fill-mode: forwards; */
+		}
+
+		@keyframes move {
+			100% {
+				stroke-dashoffset: 2;
+			}
+		}
+
+  <defs id="defs7"/>
+  
+  <sodipodi:namedview id="namedview2911" bordercolor="#666666" inkscape:pageshadow="2" guidetolerance="10" pagecolor="#ffffff" gridtolerance="10" inkscape:window-maximized="1" inkscape:zoom="2.8284271" objecttolerance="10" borderopacity="1" inkscape:current-layer="svg2909" inkscape:cx="17.979797" inkscape:cy="31.846343" inkscape:window-y="19" inkscape:window-x="0" inkscape:window-width="1920" showgrid="false" inkscape:pageopacity="0" inkscape:window-height="1181" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0"/>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title/>
+        <dc:date>2012-04-20T07:46:18</dc:date>
+        <dc:description/>
+        <dc:source>https://openclipart.org/detail/169598/gay-symbol-by-hedwig</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>hedwig</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>gay</rdf:li>
+            <rdf:li>gender</rdf:li>
+            <rdf:li>homosexuality</rdf:li>
+            <rdf:li>love</rdf:li>
+            <rdf:li>male</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+    <path style="stroke:rgb(84, 8, 155); 	stroke-width: 2px; 	fill: none;  "  d="m 25.368722,74.195625 c 3.024,0.03933 2.12519,-6.506465 2.4657,-8.207664 0.34051,-1.7012 8.369,0.825774 8.89503,-2.430634 0.52603,-3.256409 -3.77921,-2.457274 -6.25476,-2.347949 -2.47554,0.109326 -3.09451,-1.609875 -2.96221,-4.462911 0.01,-0.20513 -0.016,-3.66801 0.0415,-5.905162 l 0.21169,-3.699606 3.72684,-1.430124 C 43.548422,41.11558 49.685642,23.342998 43.077232,12.145614 38.676122,4.6884865 25.603172,-1.638967 18.758072,0.38026083 13.373202,1.9686955 5.9870689,7.3957835 3.2048979,11.845819 0.49314191,16.288219 -0.02090509,20.086845 6.3691008e-4,24.460577 0.47829691,31.351243 5.1445019,38.778009 11.188532,42.315897 c 0,0 3.45905,2.011717 4.67195,2.534599 1.21289,0.522876 5.03049,1.602307 7.24695,2.383905 0.67972,1.155967 0.29432,7.364854 0.39431,10.051762 0.1,2.686908 -1.89495,4.031538 -5.17873,3.873613 -3.28378,-0.157925 -4.98576,-0.198234 -4.50118,2.459241 0.48457,2.657474 8.70352,0.34327 9.17052,2.485489 1.1559,5.431719 -0.64762,8.051792 2.37637,8.091119 z m 7.62358,-33.824939 c -2.35778,1.496455 -5.09864,2.339862 -8.08263,2.468786 -3.94793,0.393889 -7.92979,-1.430233 -11.35361,-2.785756 C 9.3519219,38.262546 5.5645029,33.742751 4.3174649,29.02765 2.6465979,23.112691 4.6824879,16.999864 7.7156969,12.673626 11.420882,7.4079185 15.478782,5.2726615 22.604392,4.8252275 c 4.75571,-0.298665 6.99648,0.207542 10.28578,2.326093 7.28478,4.6919155 10.23536,12.2904385 8.19594,21.0284485 -1.27416,5.46069 -4.16412,9.696801 -8.09376,12.190892 z" id="path2984" inkscape:connector-curvature="0" sodipodi:nodetypes="scscccsssscssccscccsscccscsccs"/>
+  <path class="lesb" style="width: 50px; stroke:rgb(84, 8, 155); 	stroke-width: 2px; 	fill: none;    "  d="m 55.450782,0.64873543 c -0.61658,-9.09e-4 -1.2416,0.02479 -1.875,0.0625 -16.75885,1.02464997 -26.99988,20.87421257 -17.9375,34.78124957 3.07098,4.712782 9.24089,9.03977 14.6875,10.34375 l 3.6875,0.875 c -0.12118,3.489088 -0.10725,6.981296 -0.25,10.46875 0.1304,2.811978 -0.49759,4.514003 -2.9375,4.40625 -2.43993,-0.107751 -6.67471,-0.897045 -6.15625,2.3125 0.51846,3.209544 8.41439,0.698283 8.75,2.375 0.33561,1.676717 -1.25034,8.09375 1.73039,8.09375 3.95515,0 1.9116,-2.64645 3.05086,-8 0.46028,-2.11139 8.05458,0.212979 8.53217,-2.40625 0.47761,-2.619231 -1.20098,-2.593152 -4.4375,-2.4375 -3.23652,0.155652 -4.69327,-1.19551 -4.59467,-3.84375 0.10308,-3.386436 -0.98673,-10.779096 2.5625,-11.65625 1.36771,-0.419741 4.96416,-2.357325 7.96875,-4.3125 4.16727,-2.711819 5.88646,-4.443823 7.28125,-7.375 2.08843,-4.321485 2.18547,-9.054037 1.78125,-12.90625 -0.68255,-6.511141 -4.17119,-12.1360126 -10.3125,-16.6562496 -3.34967,-3.073578 -7.21522,-4.11863527 -11.53125,-4.12500027 z m -0.21875,3.81250007 c 3.52295,0.074 7.06581,1.751916 9.6875,3.53125 4.13838,2.8433595 7.39708,8.0191175 8.28125,13.0312505 0.32662,3.827477 0.61789,7.173014 -0.8125,10.71875 -0.98917,2.258873 -3.63938,5.239868 -6.96875,7.46875 -2.58951,1.733578 -5.37783,3.077307 -7.5625,3.46875 -4.52375,0.81032 -12.31491,-1.884503 -16.59375,-5.75 -6.11861,-5.527457 -6.67753,-14.428307 -1.5,-23.15625 3.47909,-5.8644925 7.41952,-8.6015965 13.0625,-9.0937505 0.80065,-0.172561 1.59326,-0.235827 2.40625,-0.21875 z" id="path2984" inkscape:connector-curvature="0" sodipodi:nodetypes="scscccsssscssccscccsscccscsccs"/>
+  <path class="lesbi"   d="" id="path2984" inkscape:connector-curvature="0" sodipodi:nodetypes="scscccsssscssccscccsscccscsccs"/>
+</svg>
